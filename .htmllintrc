@@ -1,0 +1,7 @@
+{
+    "plugins": [],
+    "bem": true,
+    "id-class-style": false,
+    "attr-req-value": false,
+    "attr-name-style": "bem"
+}

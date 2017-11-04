@@ -1,0 +1,7 @@
+/src/libs/
+/node_modules/
+/dest/
+/src/styles/
+/src/img/
+.idea
+/src/css
